@@ -1,0 +1,2 @@
+Pedro, 12345678945, 6790,12, 2, 8000,00, 30510440, Rua da Fraternidade - Nova Gameleira Belo Horizonte - MG
+Pedro, 12345678952, 4612,24, 2, 5000,00, 30510440, Rua da Fraternidade - Nova Gameleira Belo Horizonte - MG
